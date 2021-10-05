@@ -1,0 +1,89 @@
+
+h1 {
+	color: #66BFBF;
+	font-size: 5.625rem;
+	margin: 50px auto 0 auto;
+	text-align: center;
+	font-family: 'Sacramento', cursive;
+}
+
+h2 {
+	color: #66BFBF;
+	font-size: 2.5rem;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+}
+
+body {
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+.TopContainer {
+	padding-top: 100px;
+	position: relative;
+	background-color: #E4F9F5;
+}
+
+.profile {
+	padding-top: 25px;
+}
+
+.flaticon {
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.flaticon2 {
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.BottomContainer {
+	line-height: 2;
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+}
+
+.contact-me {
+	line-height: 2;
+}
+
+.pro {
+	text-decoration: underline;
+}
+
+.title {
+	font-weight: normal;
+}
+
+.Top-Cloud {
+	position: absolute;
+	right: 300px;
+	top: 50;
+}
+
+.Bottom-Cloud {
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+
+.photo {
+	border-radius: 100%;
+}
