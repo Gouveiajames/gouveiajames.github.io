@@ -30,11 +30,10 @@
       <div class="skill-row">
         <img class="flaticon" src="https://image.flaticon.com/icons/png/512/2340/premium/2340018.png" alt="Icon made by juicy_fish from www.flaticon.com">
 
-        <h3>Design and Development</h3>
-        <p>I first became interested in programming when I watched engineers do amazing things with lines of code,
-        they magically brought a box of PCB's and components alive.  I find it fascinating how an inanimate
-        lump of components can do stuff in the real world.  This fascination led me to leave my career in hardware
-        reliablity testing and start a journey to become a programmer.</p>
+        <h3>Cybersecurity</h3>
+        <p>I love to understand how things work at a deep level.  From cars to networking there is a beauty
+	   in complicated things that just work!  I also really enjoy trying to use things in ways they were 
+	   not intended  This creativity is the artistic side of hacking and were the fun truly lies.</p>
         <p style="font-size:8">Icon made by juicy_fish from www.flaticon.com</p>
       </div>
       <div class="skill-row">
